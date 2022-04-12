@@ -66,13 +66,13 @@ void display(void)
 ## 課題
 円を描くプログラムを変更して、 下図のような図形を作って下さい。
 
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/daen.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/housya.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/spiral1.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/spiral2.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/taikaku_1.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/taikaku_2.jpg" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/doublecircle.gif" width="400">
-<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cge2020/img/lines/linecircle.gif" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2022/img/lines/daen.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/housya.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/spiral1.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/spiral2.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/taikaku_1.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/taikaku_2.jpg" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/doublecircle.gif" width="400">
+<img src="http://www.design.kyushu-u.ac.jp/~rtsuruno/lectures/cie2020/img/lines/linecircle.gif" width="400">
 
 最後に、よろしければslack のほうに完成した画像をアップしてください。
